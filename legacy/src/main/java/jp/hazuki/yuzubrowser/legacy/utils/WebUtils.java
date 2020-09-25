@@ -92,7 +92,7 @@ public class WebUtils {
             .setDomainUriPrefix("https://yuzubrowser.page.link")
             // Open links with this app on Android
             .setAndroidParameters(new DynamicLink.AndroidParameters.Builder()
-                .setFallbackUrl(Uri.parse("https://www.github.com/AmanKamani/"))
+                .setFallbackUrl(Uri.parse("https://github.com/AmanKamani/DeepLinkURLGenerator/blob/master/Final-Debug-Apk/Yuzu%20Browser.apk"))
                 .build())
             // Open links with com.example.ios on iOS
             .setIosParameters(new DynamicLink.IosParameters.Builder(url).build())
