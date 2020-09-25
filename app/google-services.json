@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1030238329207",
+    "firebase_url": "https://dynamicdeeplinking.firebaseio.com",
+    "project_id": "dynamicdeeplinking",
+    "storage_bucket": "dynamicdeeplinking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030238329207:android:95f74cba3253e87efc6972",
+        "android_client_info": {
+          "package_name": "jp.hazuki.yuzubrowser.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030238329207-k08vrvgvkh0vahcuqo0anj6k6f1j8jb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.hazuki.yuzubrowser.debug",
+            "certificate_hash": "6c2ef1c2c2c4af76966400a27bf47f80f9dabd70"
+          }
+        },
+        {
+          "client_id": "1030238329207-hccn6c9fau4v9ukhhspt9rgo6emf0o16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdCPqbmucIKLrHbnVeNaC_xaqg4Ywllo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030238329207-hccn6c9fau4v9ukhhspt9rgo6emf0o16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
